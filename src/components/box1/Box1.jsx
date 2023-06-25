@@ -1,6 +1,6 @@
 import React from 'react'
 import './box1.css'
-function box1() {
+function Box1() {
     return (
         <>
             <div className="video">
@@ -10,4 +10,4 @@ function box1() {
     )
 }
 
-export default box1
+export default Box1
