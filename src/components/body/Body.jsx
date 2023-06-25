@@ -1,7 +1,7 @@
 import React from 'react';
 import './body.css';
 import Collapsible from 'react-collapsible';
-import Box1 from '../box1/box1';
+import Box1 from '../box1/Box1';
 import Box2 from '../box2/Box2';
 import Box3 from '../box3/Box3';
 import Box4 from '../box4/Box4';
