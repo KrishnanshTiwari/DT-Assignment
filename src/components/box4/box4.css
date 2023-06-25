@@ -1,0 +1,38 @@
+.outer{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 6px 14px;
+    margin: 6px 0;
+}
+.inner{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 6px 24px;
+    margin: 6px 0;
+}
+.inner h3{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 4px 12px;
+    margin: 6px 0;
+}
+.readbtn{
+    color: #606161;
+    cursor: pointer;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.readbtn:hover{
+    color: blue;
+    text-decoration: underline;
+}

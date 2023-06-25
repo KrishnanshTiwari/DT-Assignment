@@ -1,0 +1,44 @@
+.right-box {
+    position: absolute;
+    width: 6%;
+    height: 394px;
+    left: 94%;
+    top: 110px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px 0px 0px 30px;
+}
+.right-box .notice-board {
+    position: absolute;
+    width: 394px;
+    height: 50px;
+    left: -172px;
+    top: 172px;
+    background: #000000;
+    border-radius: 30px 30px 0px 0px;
+    transform: rotate(-90deg);
+}
+
+.right-box .notice-board p {
+    position: absolute;
+    width: 12px;
+    height: 288px;
+    left: 168px;
+    top: -125px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    transform: rotate(90deg);
+}
+
+
+
+
+
+
